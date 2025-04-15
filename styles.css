@@ -19,7 +19,7 @@ body, html {
   
   .bg-image {
     /* The image used */
-    background-color: rgb(53, 53, 160);
+    background-color: rgb(176, 176, 224);
     
     /* Add the blur effect */
     filter: blur(3px);
